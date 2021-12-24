@@ -1,14 +1,23 @@
 ## Hi there! 👋
 
 ### About me:
-My name is Angela The (she/her), and I'm currently an MSCAPP graduate student at UChicago studying computer science and public policy. Previously, I studied Violin Performance and Public Policy at Vanderbilt University and was most recently a Technical Research Assistant at MDRC.
+My name is Angela The (she/her), and I'm currently an MSCAPP graduate student at UChicago studying computer science and public policy! Previously, I studied Violin Performance and Public Policy at Vanderbilt University and was most recently a Technical Research Assistant at MDRC.
 
-### Current:
+### Currently:
+- 🌱 Using Python, R, SAS, Git
 - 🌱 My policy interests include criminal justice, family & child policy, early childhood education, housing, and social welfare.
 - 🌱 I'm excited to explore how the intersection between social policy & civic tech can improve civic engagement and public services/benefit delivery.
 - 🌱 Current graduate coursework: CS with Applications II (Python), Linear Algebra, and Adv. Statistics II
 
-### Past:
+### Find me here:
+<p align="left">
+<a href="https://www.angelathe.com">
+<img src="https://img.shields.io/badge/-Personal%20Website-bfd8ff" alt="Personal Website" /></a>
+<a href="https://www.linkedin.com/in/angelathe-/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://www.twitter.com/Angela__The">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+</p>
 
 
 <!--
@@ -18,9 +27,7 @@ My name is Angela The (she/her), and I'm currently an MSCAPP graduate student at
 programming languages
 thigns I want to learn
 Resume
-Linkedin
-Twitter
-website
+
 
 Here are some ideas to get you started:
 
