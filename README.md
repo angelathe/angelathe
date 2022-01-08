@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
 ### About me:
-My name is Angela The (she/her), and I'm currently an M.S. Candidate in Computational Analysis and Public Policy at the University of Chicago! Previously, I studied Violin Performance and Public Policy at Vanderbilt University and was most recently a Technical Research Assistant at MDRC.
+My name is Angela The (she/her), and I'm an MSCAPP (Computational Analysis and Public Policy) student at the University of Chicago! Previously, I studied Violin Performance and Public Policy at Vanderbilt University and was most recently a Technical Research Assistant at MDRC.
 
 ### Currently:
 - 🌱 Using Python, R, SAS, Git
-- 🌱 My policy interests include criminal justice, family & child policy, early childhood education, housing, and social welfare.
 - 🌱 I'm excited to explore how the intersection between social policy & civic tech can improve civic engagement and public services/benefit delivery.
+- 🌱 My policy interests include criminal justice, family & child policy, early childhood education, housing, and social welfare.
 - 🌱 Current graduate coursework: CS with Applications II (Python), Linear Algebra, and Adv. Statistics II
 
 ### Find me here:
