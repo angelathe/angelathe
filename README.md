@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 ### About me:
-My name is Angela The (she/her), and I'm currently an MSCAPP graduate student at UChicago studying computer science and public policy! Previously, I studied Violin Performance and Public Policy at Vanderbilt University and was most recently a Technical Research Assistant at MDRC.
+My name is Angela The (she/her), and I'm currently an M.S. Candidate in Computational Analysis and Public Policy at the University of Chicago! Previously, I studied Violin Performance and Public Policy at Vanderbilt University and was most recently a Technical Research Assistant at MDRC.
 
 ### Currently:
 - 🌱 Using Python, R, SAS, Git
