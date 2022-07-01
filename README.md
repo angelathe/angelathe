@@ -1,15 +1,15 @@
 ## Hi there! 👋
 
 ### About me:
-My name is Angela The (she/her), and I'm an MSCAPP (Computational Analysis and Public Policy) student at the University of Chicago! Previously, I studied Violin Performance and Public Policy at Vanderbilt University and am most recently a Civic Innovation Corps Fellow at Coding it Forward.
+My name is Angela The (she/her), and I'm an [MSCAPP (Computational Analysis and Public Policy)](https://capp.uchicago.edu/) student at the University of Chicago! Previously, I studied Violin Performance and Public Policy at Vanderbilt University and am most recently a Civic Innovation Corps Fellow at Coding it Forward.
 
 ### Currently:
 - 🌱 Using Python, R, SAS, Git
 - 🌱 I'm excited to explore how the intersection between social policy & civic tech can improve civic engagement and public services/benefit delivery.
 - 🌱 My policy interests include criminal justice, family & child policy, early childhood education, housing, and social welfare.
-- 🌱 Current graduate coursework: CS with Applications I & II (Python), Databases, Machine LEarning, Linear Algebra, Stats I & II, Program Evaluation.
+- 🌱 Current graduate coursework: CS with Applications I & II (Python), Databases, Machine Learning, Linear Algebra, Stats I & II, Program Evaluation.
 
-### Find me here:
+### Let's connect!:
 <p align="left">
 <a href="https://www.angelathe.com">
 <img src="https://img.shields.io/badge/-Personal%20Website-bfd8ff" alt="Personal Website" /></a>
