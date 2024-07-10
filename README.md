@@ -10,7 +10,7 @@ My name is Angela The (she/her), and I'm a software engineer who's passionate ab
 
 ### Let's connect!:
 <p align="left">
-<a href="https://www.linkedin.com/in/angelathe-/">
+<a href="https://www.linkedin.com/in/angelathe/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://www.angelathe.com">
 <img src="https://img.shields.io/badge/-Personal%20Website-bfd8ff" alt="Personal Website" /></a>
