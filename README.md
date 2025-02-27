@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 ### About me:
-My name is Angela The (she/her), and I'm a software engineer who's passionate about civic tech (specifically, improving public service and benefit delivery). Previously, I earned my M.S. in [Computational Analysis and Public Policy](https://capp.uchicago.edu/) at the University of Chicago (2023) and was a Civic Innovation Corps Fellow at Coding it Forward (2022).
+My name is Angela The, and I'm a software engineer who's passionate about civic tech (specifically, improving public service and benefit delivery). Previously, I earned my M.S. in [Computational Analysis and Public Policy](https://capp.uchicago.edu/) at the University of Chicago (2023) and was a Civic Innovation Corps Fellow at Coding it Forward (2022).
 
 ### Currently:
 - 🌱 Using React, Typescript, Python, R, Swift, Go
